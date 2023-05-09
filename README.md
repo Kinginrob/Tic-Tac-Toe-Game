@@ -24,6 +24,7 @@ Reset functionality after each game
 
 3. The game will start with the main menu, where you can choose between "Player vs Player" and "Player vs AI" modes.
 
+
 Select a mode, and the Tic Tac Toe game will begin. You can play either against another player or the AI opponent.
 
 After each game, the board will reset automatically, allowing you to play again.
