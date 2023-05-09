@@ -4,7 +4,7 @@ An interactive Tic Tac Toe game built using Python and Tkinter, featuring both P
 
 ## Features
 
-Two game modes: Player vs Player and Player vs AI
+* Two game modes: Player vs Player and Player vs AI
 
 * Visually appealing game board with custom font and colors
 
