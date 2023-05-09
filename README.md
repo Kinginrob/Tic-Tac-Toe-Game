@@ -20,7 +20,7 @@ Reset functionality after each game
 
 2. Run the following command:
 
-python tic_tac_toe.py
+  python tic_tac_toe.py
 
 3. The game will start with the main menu, where you can choose between "Player vs Player" and "Player vs AI" modes.
 
