@@ -6,13 +6,13 @@ An interactive Tic Tac Toe game built using Python and Tkinter, featuring both P
 
 Two game modes: Player vs Player and Player vs AI
 
-Visually appealing game board with custom font and colors
+* Visually appealing game board with custom font and colors
 
-Simple and intuitive user interface
+* Simple and intuitive user interface
 
-Intelligent AI opponent that prioritizes winning and blocking the player
+* Intelligent AI opponent that prioritizes winning and blocking the player
 
-Reset functionality after each game
+* Reset functionality after each game
 
 ## Usage
 
