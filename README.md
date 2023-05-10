@@ -29,3 +29,6 @@ Select a mode, and the Tic Tac Toe game will begin. You can play either against 
 
 After each game, the board will reset automatically, allowing you to play again.
 
+![Tic](https://github.com/Kinginrob/Tic-Tac-Toe-Game/assets/89039139/ca25442d-8769-4ec9-aaab-6ac7a5b0bfa6)
+
+![Tac](https://github.com/Kinginrob/Tic-Tac-Toe-Game/assets/89039139/562c40b6-d0d3-4178-bb01-3e43bf6245c3)
